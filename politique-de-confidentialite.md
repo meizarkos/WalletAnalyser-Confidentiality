@@ -1,0 +1,44 @@
+# Politique de confidentialité — [Nom de l'application]
+
+**Dernière mise à jour : [11/07/2026]**
+
+DUPLESSIS Alexis, éditeur de l'application WalletAnalyser, accorde une grande importance à la protection de vos données personnelles. Cette politique de confidentialité décrit quelles données nous collectons, pourquoi, comment elles sont utilisées, partagées et protégées, conformément au Règlement Général sur la Protection des Données (RGPD) et aux exigences de Google Play concernant les données utilisateurs et appareils.
+
+---
+
+## 1. Qui sommes-nous
+
+- **Éditeur** : DUPLESSIS Alexis
+- **Contact** : alexisduplessis2003@gmail.com
+
+---
+
+## 2. Données que nous collectons
+
+### 2.1 Données de compte
+- Adresse email (si inscription par email)
+- Identifiant unique de compte
+
+### 2.2 Données de portefeuille et données financières
+Pour fournir les fonctionnalités d'analyse, l'Application traite les données que vous saisissez ou importez vous-même, notamment :
+- Transactions d'achat et de vente d'actifs financiers (titres, cryptomonnaies, etc.)
+- Historique de dividendes reçus
+- Valeurs de portefeuille, allocations sectorielles et géographiques
+- Devise de référence choisie
+
+**Ces données sont considérées comme des données financières sensibles.** Elles ne sont utilisées que pour calculer et afficher vos métriques de performance (rendement, volatilité, ratio de Sharpe, etc.) au sein de l'Application, et ne sont jamais vendues à des tiers.
+
+### 2.3 Données d'usage et d'analyse
+- Interactions avec l'Application (écrans consultés, boutons cliqués) via Firebase Analytics
+- Fréquence et durée d'utilisation
+- Données agrégées de performance de l'Application
+
+---
+
+## 3. Pourquoi nous collectons ces données
+
+| Finalité | Données concernées | Base légale (RGPD) |
+|---|---|---|
+| Fournir le service (calculs de performance, affichage du portefeuille) | Données de portefeuille, compte | Exécution du contrat (art. 6.1.b) |
+| Sécurité et prévention de la fraude | Données techniques, logs | Intérêt légitime (art. 6.1.f) |
+| Amélioration de l'Application et diagnostic technique | Données d'usage, logs d'erreurs | Intérêt légitime (art. 6.1.f) |
