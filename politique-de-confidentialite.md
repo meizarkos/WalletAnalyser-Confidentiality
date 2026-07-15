@@ -1,4 +1,4 @@
-# Politique de confidentialité — [Nom de l'application]
+# Politique de confidentialité — Wallet Analyser
 
 **Dernière mise à jour : [11/07/2026]**
 
