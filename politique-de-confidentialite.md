@@ -30,7 +30,7 @@ Pour fournir les fonctionnalités d'analyse, l'Application traite les données q
 **Ces données sont considérées comme des données financières sensibles.** Elles ne sont utilisées que pour calculer et afficher vos métriques de performance (rendement, volatilité, ratio de Sharpe, etc.) au sein de l'Application, et ne sont jamais vendues à des tiers.
 
 ### 2.3 Données d'usage et d'analyse
-Pour assurer un tracking des bugs rencontrées par nos utilisateurs et de leur comportement:
+Pour assurer un tracking des bugs rencontrées par nos utilisateurs:
 - Interactions avec l'Application (écrans consultés, boutons cliqués) via Firebase Analytics
 - Fréquence et durée d'utilisation
 - Données agrégées de performance de l'Application
