@@ -32,3 +32,5 @@ Pour fournir les fonctionnalités d'analyse, l'Application traite les données q
 - Interactions avec l'Application (écrans consultés, boutons cliqués) via Firebase Analytics
 - Fréquence et durée d'utilisation
 - Données agrégées de performance de l'Application
+
+Pour rappel, les informations données par notre application ne sont pas des conseils d'investissements.
